@@ -2,5 +2,5 @@
 
 ##### Find me elsewhere
 
-(/images/linkedin.png)
+!(/images/linkedin.png)
 (https://www.linkedin.com/in/angelruben/)
