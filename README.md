@@ -6,6 +6,4 @@ Trabajo pincipalmente con C# para desarrollar Web Apis y aplicaciones multiplafo
 
 También puedo trabajar con las tecnologías de Google como Dart y Flutter para desarollar aplicaciones multiplaforma. Usar los servicios de Firebase y Google cloud y la creación de Web Apis con Node.js.
 
-[![linkedin](/images/linkedin.png)](https://www.linkedin.com/in/angelruben/)
-
 ![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=angelru&show_icons=true) ![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=angelru&layout=compact)
