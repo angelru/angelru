@@ -6,4 +6,4 @@ Principalmente, trabajo con C# para desarrollar Web APIs y aplicaciones multipla
 
 También tengo experiencia en el uso de las tecnologías de Google, como Dart y Flutter, para desarrollar aplicaciones multiplataforma. Además, puedo utilizar los servicios de Firebase y Google Cloud y crear Web APIs con Node.js.
 
-![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=angelru&theme=github_dark_dimmed&show_icons=true) ![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=angelru&layout=compact&theme=github_dark_dimmed)
+![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=angelru&theme=darkdimmed&show_icons=true) ![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=angelru&layout=compact&theme=darkdimmed)
